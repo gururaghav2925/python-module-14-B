@@ -1,4 +1,4 @@
-## Python Program for Simple Implementation of Priority Queue (Delete Function Only)
+## Simple Implementation of Priority Queue (Delete Function Only)
 
 ## Aim:
 To implement the delete operation in a Priority Queue, where elements with the highest priority (lowest numerical value) are removed first.
